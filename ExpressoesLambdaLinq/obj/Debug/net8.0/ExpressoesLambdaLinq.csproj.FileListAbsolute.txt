@@ -1,0 +1,14 @@
+C:\Users\Junior\CSharp\ExpressoesLambdaLinq\ExpressoesLambdaLinq\bin\Debug\net8.0\ExpressoesLambdaLinq.exe
+C:\Users\Junior\CSharp\ExpressoesLambdaLinq\ExpressoesLambdaLinq\bin\Debug\net8.0\ExpressoesLambdaLinq.deps.json
+C:\Users\Junior\CSharp\ExpressoesLambdaLinq\ExpressoesLambdaLinq\bin\Debug\net8.0\ExpressoesLambdaLinq.runtimeconfig.json
+C:\Users\Junior\CSharp\ExpressoesLambdaLinq\ExpressoesLambdaLinq\bin\Debug\net8.0\ExpressoesLambdaLinq.dll
+C:\Users\Junior\CSharp\ExpressoesLambdaLinq\ExpressoesLambdaLinq\bin\Debug\net8.0\ExpressoesLambdaLinq.pdb
+C:\Users\Junior\CSharp\ExpressoesLambdaLinq\ExpressoesLambdaLinq\obj\Debug\net8.0\ExpressoesLambdaLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junior\CSharp\ExpressoesLambdaLinq\ExpressoesLambdaLinq\obj\Debug\net8.0\ExpressoesLambdaLinq.AssemblyInfoInputs.cache
+C:\Users\Junior\CSharp\ExpressoesLambdaLinq\ExpressoesLambdaLinq\obj\Debug\net8.0\ExpressoesLambdaLinq.AssemblyInfo.cs
+C:\Users\Junior\CSharp\ExpressoesLambdaLinq\ExpressoesLambdaLinq\obj\Debug\net8.0\ExpressoesLambdaLinq.csproj.CoreCompileInputs.cache
+C:\Users\Junior\CSharp\ExpressoesLambdaLinq\ExpressoesLambdaLinq\obj\Debug\net8.0\ExpressoesLambdaLinq.dll
+C:\Users\Junior\CSharp\ExpressoesLambdaLinq\ExpressoesLambdaLinq\obj\Debug\net8.0\refint\ExpressoesLambdaLinq.dll
+C:\Users\Junior\CSharp\ExpressoesLambdaLinq\ExpressoesLambdaLinq\obj\Debug\net8.0\ExpressoesLambdaLinq.pdb
+C:\Users\Junior\CSharp\ExpressoesLambdaLinq\ExpressoesLambdaLinq\obj\Debug\net8.0\ExpressoesLambdaLinq.genruntimeconfig.cache
+C:\Users\Junior\CSharp\ExpressoesLambdaLinq\ExpressoesLambdaLinq\obj\Debug\net8.0\ref\ExpressoesLambdaLinq.dll
